@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.organ-bureaucracy
 title: "Me vs. My Organs"
 type: Observation

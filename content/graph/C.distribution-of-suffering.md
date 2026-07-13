@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.distribution-of-suffering
 title: "Distribution of Suffering"
 type: Concept

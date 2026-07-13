@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.ligotti-in-latex
 title: "Ligotti in Latex"
 type: Observation

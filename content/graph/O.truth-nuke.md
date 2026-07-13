@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.truth-nuke
 title: "The Truth Nuke"
 type: Observation

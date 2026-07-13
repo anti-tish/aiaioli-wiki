@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.geb-and-diary
 title: "GEB and My Own Diary"
 type: Observation

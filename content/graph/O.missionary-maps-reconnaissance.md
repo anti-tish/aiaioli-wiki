@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.missionary-maps-reconnaissance
 title: "Missionary Maps as Reconnaissance"
 type: Observation

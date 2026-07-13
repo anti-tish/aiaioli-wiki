@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.no-matrilineal-inheritance
 title: "No Matrilineal Inheritance Mechanism"
 type: Observation

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.claude-wraps-up
 title: "Claude Wants to Wrap Up"
 type: Observation

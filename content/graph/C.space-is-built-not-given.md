@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.space-is-built-not-given
 title: "The Space Is Built, Not Given"
 type: Concept

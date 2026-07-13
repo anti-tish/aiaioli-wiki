@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.naming-the-position
 title: "Naming the Position"
 type: Connection

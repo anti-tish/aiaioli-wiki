@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.rewatch-ghost-visibility
 title: "Rewatch Ghost Visibility"
 type: Observation

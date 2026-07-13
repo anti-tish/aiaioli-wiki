@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.geography-bastard-child
 title: "Geography as Bastard Child"
 type: Concept

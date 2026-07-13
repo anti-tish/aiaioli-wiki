@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.trapped-in-chats
 title: "Trapped in Chats"
 type: Observation

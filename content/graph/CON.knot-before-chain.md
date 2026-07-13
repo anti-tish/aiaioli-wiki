@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.knot-before-chain
 title: "The Knot Before the Chain"
 type: Connection

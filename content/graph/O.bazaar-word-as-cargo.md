@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.bazaar-word-as-cargo
 title: "Bazaar: Word as Cargo"
 type: Observation

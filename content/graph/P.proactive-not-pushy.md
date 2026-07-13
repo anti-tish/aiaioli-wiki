@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.proactive-not-pushy
 title: "Proactive, Not Pushy"
 type: Pattern

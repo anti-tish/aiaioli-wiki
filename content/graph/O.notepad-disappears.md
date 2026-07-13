@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.notepad-disappears
 title: "The Notepad Disappears"
 type: Observation

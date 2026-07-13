@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.quartz-web-1.0-legitimacy
 title: "Quartz as Web-1.0 Legitimacy"
 type: Concept

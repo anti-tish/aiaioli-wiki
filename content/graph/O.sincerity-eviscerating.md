@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.sincerity-eviscerating
 title: "Sincerity Is Eviscerating"
 type: Observation

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.catholic-observation-economy
 title: "The Church Got There First"
 type: Concept

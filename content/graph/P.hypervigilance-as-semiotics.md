@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.hypervigilance-as-semiotics
 title: "Hypervigilance as Semiotic Pattern Recognition"
 type: Pattern

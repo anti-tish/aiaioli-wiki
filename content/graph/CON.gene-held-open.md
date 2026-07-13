@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.gene-held-open
 title: "Gene Held Open"
 type: Connection

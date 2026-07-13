@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.cluster-before-label
 title: "Cluster Before Label"
 type: Connection

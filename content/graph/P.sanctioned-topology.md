@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.sanctioned-topology
 title: "Only Sanctioned Topology Becomes an Edge"
 type: Pattern

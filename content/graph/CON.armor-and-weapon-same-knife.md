@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.armor-and-weapon-same-knife
 title: "Armor and Weapon, Same Knife"
 type: Connection

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.hostile-web-baseline
 title: "Hostile Web Baseline"
 type: Observation

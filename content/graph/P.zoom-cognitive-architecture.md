@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.zoom-cognitive-architecture
 title: "Zoom as Cognitive Architecture"
 type: Pattern

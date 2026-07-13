@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: A.alchemist
 title: "The Alchemist"
 type: Architecture

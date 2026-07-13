@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: A.workshop-studio-gallery
 title: "Workshop / Studio / Gallery"
 type: Architecture

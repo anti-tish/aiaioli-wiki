@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.translation-gap-applied-to-self
 title: "Translation Gap Applied to Self"
 type: Observation

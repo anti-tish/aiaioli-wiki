@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.obsidian-as-proof
 title: "Obsidian as Proof"
 type: Pattern

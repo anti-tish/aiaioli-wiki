@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.invitation-with-consequences
 title: "Invitation with Consequences"
 type: Concept

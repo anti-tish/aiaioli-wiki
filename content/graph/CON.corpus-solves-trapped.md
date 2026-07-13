@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.corpus-solves-trapped
 title: "Corpus Responds to Trapped"
 type: Connection

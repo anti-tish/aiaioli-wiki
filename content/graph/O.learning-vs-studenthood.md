@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.learning-vs-studenthood
 title: "Learning vs. Studenthood"
 type: Observation

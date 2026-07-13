@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.cozy-cosmic
 title: "Cozy Cosmic"
 type: Concept

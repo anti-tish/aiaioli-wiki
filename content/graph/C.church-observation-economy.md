@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.church-observation-economy
 title: "Church Observation Economy"
 type: Concept

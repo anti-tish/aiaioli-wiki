@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.straight-man-reversal
 title: "The Straight-Man Trope Reversal"
 type: Observation

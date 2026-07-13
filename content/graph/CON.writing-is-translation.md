@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.writing-is-translation
 title: "Writing Is Translation"
 type: Connection

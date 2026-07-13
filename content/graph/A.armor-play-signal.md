@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: A.armor-play-signal
 title: "Armor / Play / Signal"
 type: Architecture

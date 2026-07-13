@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.inbox-now-later
 title: "The Now/Later Inbox"
 type: Concept

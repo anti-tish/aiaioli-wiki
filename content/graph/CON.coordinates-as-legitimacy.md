@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.coordinates-as-legitimacy
 title: "Coordinates as Legitimacy"
 type: Connection

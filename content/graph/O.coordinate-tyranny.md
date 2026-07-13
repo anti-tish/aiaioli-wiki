@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.coordinate-tyranny
 title: "Coordinate Tyranny"
 type: Observation

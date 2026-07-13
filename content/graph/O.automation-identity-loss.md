@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.automation-identity-loss
 title: "Automation as Identity Loss"
 type: Observation

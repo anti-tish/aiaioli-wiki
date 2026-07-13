@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.off-grid-mesh
 title: "Off-Grid Mesh / Resilient Comms"
 type: Concept

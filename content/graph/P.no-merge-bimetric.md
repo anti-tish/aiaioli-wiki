@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.no-merge-bimetric
 title: "Two Graphs, Never One Table"
 type: Pattern

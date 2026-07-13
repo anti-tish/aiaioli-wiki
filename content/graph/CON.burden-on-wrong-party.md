@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.burden-on-wrong-party
 title: "Burden on the Wrong Party"
 type: Connection

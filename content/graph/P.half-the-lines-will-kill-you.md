@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.half-the-lines-will-kill-you
 title: "Half the Lines Are Made Up, the Other Half Will Kill You"
 type: Pattern

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.cartography-generalizes-to-all-maps
 title: "Cartography Generalizes to All Maps"
 type: Connection

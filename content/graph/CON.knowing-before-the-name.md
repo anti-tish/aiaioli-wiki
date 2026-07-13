@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.knowing-before-the-name
 title: "Knowing Before the Name"
 type: Connection

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.more-than-a-pretty-face
 title: "Claude — More Than Just a Pretty Face"
 type: Observation

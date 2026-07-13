@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.enterprise-is-lawful-evil
 title: "Enterprise Is Lawful Evil"
 type: Connection

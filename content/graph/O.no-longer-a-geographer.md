@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.no-longer-a-geographer
 title: "No Longer a Geographer"
 type: Observation

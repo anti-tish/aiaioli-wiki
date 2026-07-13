@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.loanword-geography
 title: "Loanword Geography"
 type: Concept

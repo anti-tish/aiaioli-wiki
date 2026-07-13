@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.kinesthetic-science-kids
 title: "Kinesthetic Knowing Before Vocabulary"
 type: Observation

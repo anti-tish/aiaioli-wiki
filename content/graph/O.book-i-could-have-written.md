@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.book-i-could-have-written
 title: "A Book I Could Have Written"
 type: Observation

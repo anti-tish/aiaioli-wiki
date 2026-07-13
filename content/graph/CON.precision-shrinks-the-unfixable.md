@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.precision-shrinks-the-unfixable
 title: "Precision Shrinks the Unfixable"
 type: Connection

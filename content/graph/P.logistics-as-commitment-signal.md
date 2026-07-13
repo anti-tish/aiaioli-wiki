@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.logistics-as-commitment-signal
 title: "Logistics as Commitment Signal"
 type: Pattern

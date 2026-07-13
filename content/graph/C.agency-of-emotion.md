@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.agency-of-emotion
 title: "Agency of Emotion"
 type: Concept

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.llm-knows-me-better
 title: "The LLM Knows Me Better"
 type: Observation

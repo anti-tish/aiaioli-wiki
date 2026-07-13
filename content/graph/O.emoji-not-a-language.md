@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.emoji-not-a-language
 title: "Emoji Rides Unicode But Isn't a Language"
 type: Observation

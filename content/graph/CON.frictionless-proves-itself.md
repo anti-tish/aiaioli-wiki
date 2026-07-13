@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.frictionless-proves-itself
 title: "Frictionless Proves Itself"
 type: Connection

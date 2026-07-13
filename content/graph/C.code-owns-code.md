@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.code-owns-code
 title: "Code Should Own Code"
 type: Concept

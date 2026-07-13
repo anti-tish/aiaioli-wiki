@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.paradigm-outlasted-the-map
 title: "The Paradigm Outlasted the Map"
 type: Connection

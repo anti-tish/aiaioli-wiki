@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.narrator-instigator-imaginary
 title: "Narrator-Instigator-Imaginary"
 type: Concept

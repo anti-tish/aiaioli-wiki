@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.ligature-cognition
 title: "Ligature Cognition"
 type: Observation

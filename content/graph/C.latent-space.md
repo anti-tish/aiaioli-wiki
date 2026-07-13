@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.latent-space
 title: "Latent Space / Words as Raster Stacks"
 type: Concept

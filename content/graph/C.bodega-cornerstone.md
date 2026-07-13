@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.bodega-cornerstone
 title: "The 24-Hour Bodega as Community Cornerstone"
 type: Concept

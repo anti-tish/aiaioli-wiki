@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.mild-contrarianism-for-accuracy
 title: "Mild Contrarianism in the Name of Accuracy"
 type: Pattern

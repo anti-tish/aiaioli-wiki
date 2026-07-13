@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.opposite-of-ai-psychosis
 title: "The Opposite of AI Psychosis"
 type: Concept

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.non-hierarchical-brain
 title: "My Brain Isn't Hierarchical"
 type: Concept

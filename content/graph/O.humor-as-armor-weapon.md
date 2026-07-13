@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.humor-as-armor-weapon
 title: "Humor as Armor and Weapon"
 type: Observation

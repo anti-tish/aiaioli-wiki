@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.devolution-of-natural-language
 title: "The Devolution of Natural Language"
 type: Concept

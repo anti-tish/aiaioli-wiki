@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.geb-myself
 title: "Did I GEB Myself?"
 type: Observation

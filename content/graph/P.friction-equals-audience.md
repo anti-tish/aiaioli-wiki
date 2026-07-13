@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.friction-equals-audience
 title: "Friction Is the Imagined Audience"
 type: Pattern

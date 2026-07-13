@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.writing-not-writer
 title: "Writing, Not Writer"
 type: Observation

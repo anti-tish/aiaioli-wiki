@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: Q.tool-or-framework
 title: "Is the Graph a Tool or a Thinking Framework?"
 type: Question

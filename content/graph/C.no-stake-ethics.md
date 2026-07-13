@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.no-stake-ethics
 title: "The No-Stake Ethic"
 type: Concept

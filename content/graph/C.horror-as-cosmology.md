@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.horror-as-cosmology
 title: "Horror as Cosmology"
 type: Concept

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.archive-as-moral-compass
 title: "The Archive as Moral Compass"
 type: Pattern

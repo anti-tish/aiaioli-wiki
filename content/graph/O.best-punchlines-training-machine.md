@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.best-punchlines-training-machine
 title: "Best Punchlines, Training Machine"
 type: Observation

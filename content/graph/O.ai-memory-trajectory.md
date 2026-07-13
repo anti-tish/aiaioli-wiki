@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.ai-memory-trajectory
 title: "AI Memory Trajectory"
 type: Observation

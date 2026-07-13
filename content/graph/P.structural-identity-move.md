@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.structural-identity-move
 title: "Structural Identity Across Domains"
 type: Pattern

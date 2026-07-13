@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.long-game-brain
 title: "The Long Game"
 type: Observation

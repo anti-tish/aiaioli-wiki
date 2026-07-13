@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.triple-store
 title: "Triple Store"
 type: Concept

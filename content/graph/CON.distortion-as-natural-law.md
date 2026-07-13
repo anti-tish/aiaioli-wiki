@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.distortion-as-natural-law
 title: "Distortion as Natural Law"
 type: Connection

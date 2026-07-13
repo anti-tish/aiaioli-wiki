@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.container-finds-content
 title: "The Container Waits for Its Content"
 type: Pattern

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.literary-chauvinism
 title: "Literary Chauvinism"
 type: Concept

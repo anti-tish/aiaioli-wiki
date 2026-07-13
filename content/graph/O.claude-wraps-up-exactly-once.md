@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.claude-wraps-up-exactly-once
 title: "Claude Wraps Up Exactly Once"
 type: Observation

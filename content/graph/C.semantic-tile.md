@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.semantic-tile
 title: "The Semantic Tile"
 type: Concept

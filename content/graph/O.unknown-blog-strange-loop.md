@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.unknown-blog-strange-loop
 title: "The Platform Strange Loop"
 type: Observation

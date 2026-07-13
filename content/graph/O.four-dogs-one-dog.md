@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.four-dogs-one-dog
 title: "Four Dogs, One Dog"
 type: Observation

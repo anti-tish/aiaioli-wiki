@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.lawful-evil-antifragile
 title: "Lawful Evil Is Antifragile"
 type: Observation

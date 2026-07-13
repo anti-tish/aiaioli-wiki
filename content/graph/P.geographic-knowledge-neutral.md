@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.geographic-knowledge-neutral
 title: "Geographic Knowledge Is Never Neutral"
 type: Pattern

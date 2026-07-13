@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.rag
 title: "RAG (Retrieval-Augmented Generation)"
 type: Concept

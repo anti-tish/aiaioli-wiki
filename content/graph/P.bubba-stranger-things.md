@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.bubba-stranger-things
 title: "The Bubba / Stranger Things Edge"
 type: Pattern

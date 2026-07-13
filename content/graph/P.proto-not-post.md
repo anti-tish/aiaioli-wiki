@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.proto-not-post
 title: "Proto-, Not Post-"
 type: Pattern

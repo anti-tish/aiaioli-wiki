@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.bookshelf-not-reviews
 title: "A Blog About My Bookshelf"
 type: Concept

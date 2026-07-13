@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.everyone-a-nerd
 title: "Everyone's a Nerd About Something"
 type: Observation

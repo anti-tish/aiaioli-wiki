@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.cosmic-speck
 title: "Cosmic Speck"
 type: Concept

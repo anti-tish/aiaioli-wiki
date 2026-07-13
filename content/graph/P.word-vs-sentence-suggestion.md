@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.word-vs-sentence-suggestion
 title: "Word-Level vs Sentence-Level Suggestion"
 type: Pattern

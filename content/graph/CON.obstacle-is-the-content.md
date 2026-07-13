@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.obstacle-is-the-content
 title: "The Obstacle Is the Content"
 type: Connection

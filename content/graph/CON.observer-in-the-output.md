@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.observer-in-the-output
 title: "The Observer in the Output"
 type: Connection

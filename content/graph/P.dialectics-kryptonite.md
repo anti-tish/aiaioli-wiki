@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.dialectics-kryptonite
 title: "Dialectics as Social Kryptonite"
 type: Pattern

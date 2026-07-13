@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.knowing-without-referent
 title: "Knowing Without a Referent"
 type: Connection

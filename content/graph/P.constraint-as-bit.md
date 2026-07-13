@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.constraint-as-bit
 title: "Constraint as Bit"
 type: Pattern

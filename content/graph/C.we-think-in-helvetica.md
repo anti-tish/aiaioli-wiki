@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.we-think-in-helvetica
 title: "We Think in Helvetica"
 type: Concept

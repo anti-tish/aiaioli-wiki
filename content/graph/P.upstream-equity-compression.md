@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.upstream-equity-compression
 title: "Upstream Equity Compression"
 type: Pattern

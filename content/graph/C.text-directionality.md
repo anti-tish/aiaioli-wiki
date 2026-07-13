@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.text-directionality
 title: "Text Directionality"
 type: Concept

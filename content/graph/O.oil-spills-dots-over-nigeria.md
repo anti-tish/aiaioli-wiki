@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.oil-spills-dots-over-nigeria
 title: "Oil Spills as Dots Over Nigeria"
 type: Observation

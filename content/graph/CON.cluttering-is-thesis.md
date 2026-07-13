@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.cluttering-is-thesis
 title: "Cluttering Is the Thesis"
 type: Connection

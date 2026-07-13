@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: Q.spatial-tool
 title: "What Does the Spatial Tool Do That QGIS/ESRI Don't?"
 type: Question

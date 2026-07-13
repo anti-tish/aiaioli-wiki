@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.the-endless-hallway
 title: "The Endless Hallway (S² as a Scooby-Doo Gag)"
 type: Observation

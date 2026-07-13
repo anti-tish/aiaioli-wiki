@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.geosparql
 title: "GeoSPARQL"
 type: Concept

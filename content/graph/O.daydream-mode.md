@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.daydream-mode
 title: "Daydream Mode"
 type: Observation

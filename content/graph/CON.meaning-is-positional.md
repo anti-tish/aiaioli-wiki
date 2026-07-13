@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.meaning-is-positional
 title: "Meaning Is Positional"
 type: Connection

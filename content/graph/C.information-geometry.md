@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.information-geometry
 title: "Information Geometry / Statistical Manifolds"
 type: Concept

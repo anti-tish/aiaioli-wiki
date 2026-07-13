@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.triple-is-the-disinfectant
 title: "The Triple Is the Disinfectant"
 type: Connection

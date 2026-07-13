@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: Q.observer-effect
 title: "Does Modeling Someone Change Them?"
 type: Question

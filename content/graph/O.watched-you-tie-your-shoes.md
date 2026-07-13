@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.watched-you-tie-your-shoes
 title: "I Watched You Tie Your Shoes"
 type: Observation

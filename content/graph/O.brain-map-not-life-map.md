@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.brain-map-not-life-map
 title: "A Brain Map, Not a Life Map"
 type: Observation

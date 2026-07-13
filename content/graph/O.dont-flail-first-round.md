@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.dont-flail-first-round
 title: "I Don't Flail in the First Round Anymore"
 type: Observation

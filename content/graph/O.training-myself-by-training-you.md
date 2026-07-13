@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.training-myself-by-training-you
 title: "Training Myself by Training You"
 type: Observation

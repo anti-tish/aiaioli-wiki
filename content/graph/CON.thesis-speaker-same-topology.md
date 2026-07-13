@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.thesis-speaker-same-topology
 title: "Thesis and Speaker, Same Topology"
 type: Connection

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.corpus-plus-dialogue
 title: "Corpus Plus Dialogue"
 type: Pattern

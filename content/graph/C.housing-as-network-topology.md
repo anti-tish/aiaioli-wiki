@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.housing-as-network-topology
 title: "Housing as Network Topology"
 type: Concept

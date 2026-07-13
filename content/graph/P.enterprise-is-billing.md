@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.enterprise-is-billing
 title: "Enterprise Is Granular Billing"
 type: Pattern

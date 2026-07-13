@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.loud-and-wrong
 title: "The Right to Be Loud and Wrong"
 type: Concept

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.no-magical-plot
 title: "No Magical Plot"
 type: Observation

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.four-claude-coordination
 title: "Four Instances, One Tool"
 type: Observation

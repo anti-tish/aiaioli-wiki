@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.zoom-makes-thesis-possible
 title: "Zoom Makes the Thesis Possible"
 type: Connection

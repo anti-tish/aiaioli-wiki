@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.direction-inversion-writing
 title: "Direction Inversion: Writing"
 type: Observation

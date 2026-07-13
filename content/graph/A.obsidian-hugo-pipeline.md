@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: A.obsidian-hugo-pipeline
 title: "The Obsidian → Hugo Pipeline"
 type: Architecture

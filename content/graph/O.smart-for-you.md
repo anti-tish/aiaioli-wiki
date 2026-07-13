@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.smart-for-you
 title: "Smart For You"
 type: Observation

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.capture-friction-title
 title: "Capture Friction: The Title"
 type: Observation

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.writing-as-unknotting
 title: "Writing as Unknotting"
 type: Observation

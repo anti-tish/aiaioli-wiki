@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.map-as-view-not-product
 title: "Map as View, Not Product"
 type: Observation

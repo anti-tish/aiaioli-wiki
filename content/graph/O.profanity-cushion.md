@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.profanity-cushion
 title: "Profanity Cushion"
 type: Observation

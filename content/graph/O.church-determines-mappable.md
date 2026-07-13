@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.church-determines-mappable
 title: "Church Determines Mappable"
 type: Observation

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.claude-not-incidental
 title: "Claude Is Not Incidental"
 type: Observation

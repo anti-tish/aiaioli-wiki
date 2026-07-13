@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.analogy-whiplash
 title: "Analogy Whiplash"
 type: Observation

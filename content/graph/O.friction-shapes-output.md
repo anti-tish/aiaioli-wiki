@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.friction-shapes-output
 title: "Friction Shapes Output"
 type: Observation

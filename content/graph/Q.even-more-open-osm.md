@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: Q.even-more-open-osm
 title: "What Is the Even-More-Open OpenStreetMap?"
 type: Question

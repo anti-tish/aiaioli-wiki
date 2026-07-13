@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: CON.hostile-audience-is-invitation
 title: "Hostile Audience Is Invitation"
 type: Connection

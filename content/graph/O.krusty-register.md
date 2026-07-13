@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.krusty-register
 title: "Russian Russian vs Americanized Russian (the Krusty Register)"
 type: Observation

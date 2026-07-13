@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.math-not-embarrassed
 title: "Better at Math Now"
 type: Observation

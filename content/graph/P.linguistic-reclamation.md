@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.linguistic-reclamation
 title: "Linguistic Reclamation"
 type: Pattern

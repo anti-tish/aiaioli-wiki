@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.mess-as-privacy
 title: "Mess as Privacy"
 type: Concept

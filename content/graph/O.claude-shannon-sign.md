@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.claude-shannon-sign
 title: "Named After Claude Shannon"
 type: Observation

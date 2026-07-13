@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.manifesto-conceivable
 title: "Manifesto Conceivable"
 type: Observation

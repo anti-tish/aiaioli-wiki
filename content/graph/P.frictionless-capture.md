@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.frictionless-capture
 title: "Frictionless Capture"
 type: Pattern

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.pay-then-ask
 title: "Pay First, Then Ask"
 type: Observation

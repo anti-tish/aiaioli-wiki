@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.tish-isms
 title: "Tish-isms"
 type: Concept

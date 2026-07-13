@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.mirror-shows-everything-but-itself
 title: "The Mirror Shows Everything But Itself"
 type: Observation

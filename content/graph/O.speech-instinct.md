@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.speech-instinct
 title: "The Speech Instinct"
 type: Observation

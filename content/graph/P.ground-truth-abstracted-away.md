@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.ground-truth-abstracted-away
 title: "Geography Had a Ground Truth and Abstracted Away From It"
 type: Pattern

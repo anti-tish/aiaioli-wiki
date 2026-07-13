@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.system-must-fit-not-teach
 title: "System Must Fit, Not Teach"
 type: Pattern

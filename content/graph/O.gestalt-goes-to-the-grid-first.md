@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.gestalt-goes-to-the-grid-first
 title: "Oh So Gestalt, Yet: The Grid Rules First"
 type: Observation

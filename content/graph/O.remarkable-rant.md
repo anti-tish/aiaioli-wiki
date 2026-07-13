@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.remarkable-rant
 title: "The reMarkable Screed"
 type: Observation

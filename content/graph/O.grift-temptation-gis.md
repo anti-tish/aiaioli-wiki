@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: O.grift-temptation-gis
 title: "Grift Temptation, GIS"
 type: Observation

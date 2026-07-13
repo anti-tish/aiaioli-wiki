@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: P.medium-is-antagonist
 title: "Medium Is Antagonist"
 type: Pattern

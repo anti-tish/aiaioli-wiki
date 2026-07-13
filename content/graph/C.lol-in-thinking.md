@@ -1,4 +1,5 @@
 ---
+unlisted: true
 id: C.lol-in-thinking
 title: "The Lol in the Thinking"
 type: Concept
