@@ -56,6 +56,6 @@ the guy who wrote the algorithm to explain to me what it does. what are we even 
 - → [[A.geography-fails-at-both]] · demands
 - → [[C.code-owns-code]] · extends
 - → [[C.welded-to-one-shape]] · conceptually_related_to
-- → [[P.attention-is-tobler-made-learnable]] · conceptually_related_to
+- → `P.attention-is-tobler-made-learnable` *(held)* · conceptually_related_to
 
 > source: live code session (2026-07-03) · extraction: auto (schema v3.1)

@@ -23,6 +23,6 @@ Her self-coined aesthetic persona: 'Uber comfy, still kinda cunty, a little boug
 
 ## Connections
 - → [[A.armor-play-signal]] · demonstrated_by
-- → [[A.cannatish]] · conceptually_related_to
+- → `A.cannatish` *(held)* · conceptually_related_to
 
 > source: Building a rock solid aesthetic and closet (2026-04-08) · extraction: auto (schema v3.1)

@@ -43,7 +43,7 @@ The irreducible reduction of the corpus — most of the graph is one idea wearin
 - → [[C.critical-cartography]] · conceptually_related_to
 - → [[P.reason-before-name]] · conceptually_related_to
 - → [[C.high-brow-low-life]] · conceptually_related_to
-- → [[A.against-sustaining]] · conceptually_related_to
+- → `A.against-sustaining` *(held)* · conceptually_related_to
 - → [[C.lawful-evil]] · conceptually_related_to
 
 > source: live code session (2026-06-14) · extraction: auto (schema v3.1) — synthesis adjudicated by Tish; her call to publish

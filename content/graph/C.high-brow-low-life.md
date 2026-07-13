@@ -28,7 +28,7 @@ The Brand Identity facet opens a tension she named in the same breath she conced
 ## Connections
 - → [[O.slapstick-before-elevated]] · generalizes
 - → [[O.humor-as-armor-weapon]] · conceptually_related_to
-- → [[P.names-track-register]] · conceptually_related_to
+- → `P.names-track-register` *(held)* · conceptually_related_to
 - → [[C.early-over-accurate]] · conceptually_related_to
 - → [[O.complicity-recognition]] · is_unresolved_tension_with
 

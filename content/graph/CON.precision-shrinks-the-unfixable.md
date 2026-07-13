@@ -16,7 +16,7 @@ tags:
 
 # Precision Shrinks the Unfixable
 
-**[[P.precision-deflates]]** → *is_structurally_identical_to* → **[[C.projection-problem]]**  ·  confidence: medium · working
+**`P.precision-deflates` *(held)*** → *is_structurally_identical_to* → **[[C.projection-problem]]**  ·  confidence: medium · working
 
 Neither is solvable — you can't escape the projection, you can't delete the avoidance. But naming exactly what you distort shrinks it. 'Pick what you're willing to lie about' and 'name the fear precisely' are the same intervention.
 

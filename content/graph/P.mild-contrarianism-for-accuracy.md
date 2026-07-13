@@ -23,7 +23,7 @@ The personal ethos, stated as a comedy-and-argument method: 'the exact mild cont
 
 ## Connections
 - → [[C.distribution-of-suffering]] · conceptually_related_to
-- → [[P.precision-deflates]] · conceptually_related_to
+- → `P.precision-deflates` *(held)* · conceptually_related_to
 - → [[P.precision-in-transgression]] · conceptually_related_to
 
 > source: Building a rock solid aesthetic and closet (2026-04-08) · extraction: auto (schema v3.1)

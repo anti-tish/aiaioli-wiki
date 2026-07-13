@@ -16,7 +16,7 @@ tags:
 
 # Gene Held Open
 
-**[[A.too-much-gene]]** → *is_unresolved_tension_with* → **[[A.all-in-gene]]**  ·  confidence: high · working
+**`A.too-much-gene` *(held)*** → *is_unresolved_tension_with* → **`A.all-in-gene` *(held)***  ·  confidence: high · working
 
 Same architecture, two framings (excess vs drive), plus a third (clinical 'dysregulation'). All held, none collapsed. The renamings are negotiations, not a resolution.
 

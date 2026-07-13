@@ -19,12 +19,12 @@ tags:
 
 `Concept` · `cartography` · *hypothesis* · visibility: **working**
 
-Jeff VanderMeer lives in Tallahassee; Area X — the Shimmer of *Annihilation* — is the Florida panhandle, St. Marks with the saturation cranked. A thin zone is a place where the membrane between worlds goes soft. Her loose tie, surfaced live: it connects to [[A.against-sustaining]] — the Shimmer "breaks matter down to its atoms and reforms in ways that are 'wrong' and new." It doesn't preserve anything; it dissolves and remakes. Anti-permanence as a generative force, not a loss.
+Jeff VanderMeer lives in Tallahassee; Area X — the Shimmer of *Annihilation* — is the Florida panhandle, St. Marks with the saturation cranked. A thin zone is a place where the membrane between worlds goes soft. Her loose tie, surfaced live: it connects to `A.against-sustaining` *(held)* — the Shimmer "breaks matter down to its atoms and reforms in ways that are 'wrong' and new." It doesn't preserve anything; it dissolves and remakes. Anti-permanence as a generative force, not a loss.
 
 The coast is the membrane; water is where it's thinnest (the wet-zone motif — the place where the self can dissolve, which is exactly what Area X does to whoever walks in). A developing thread — "we might come back to this one."
 
 ## Connections
-- → [[A.against-sustaining]] · conceptually_related_to
+- → `A.against-sustaining` *(held)* · conceptually_related_to
 - → [[C.horror-as-cosmology]] · conceptually_related_to
 - → [[C.bear-that-eats-language]] · conceptually_related_to
 - → [[C.cozy-cosmic]] · conceptually_related_to

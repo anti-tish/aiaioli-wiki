@@ -22,7 +22,7 @@ tags:
 Seeing her own graph with fresh eyes: 'it's VERY internal. This is someone's inside thinking. It really is a brain map, not a life map.' What's striking is what's *not* in it — the externals, the biography. The graph records how she thinks, not what happened to her. She's 'stamped that this graph is reflective of me,' which makes the omissions a finding too: this is what she signals without realizing it.
 
 ## Connections
-- → [[O.accidentally-uploaded-myself]] · conceptually_related_to
-- → [[A.stage-persona]] · conceptually_related_to
+- → `O.accidentally-uploaded-myself` *(held)* · conceptually_related_to
+- → `A.stage-persona` *(held)* · conceptually_related_to
 
 > source: Haiku as cognitive compression (2026-05-24) · extraction: auto (schema v3.1)

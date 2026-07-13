@@ -21,7 +21,7 @@ tags:
 The reason arrives fully formed before the name for it does. She knows a thing is true before she can say why, and refuses to wait for her vocabulary's permission. Syntactically visible: 'because [cause] I am balking' — cause first, named state last. She does not rewrite, so the sentence preserves the order of the thought.
 
 ## Connections
-- → [[P.precision-deflates]] · complicates
-- → [[A.too-much-gene]] · demonstrated_by
+- → `P.precision-deflates` *(held)* · complicates
+- → `A.too-much-gene` *(held)* · demonstrated_by
 
 > source: this session (2026-06-04) + recurring · extraction: auto (schema v3.0)

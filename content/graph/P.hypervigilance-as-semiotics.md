@@ -23,6 +23,6 @@ tags:
 
 ## Connections
 - → [[C.post-humor]] · conceptually_related_to
-- → [[O.atmosphere-in-horror]] · conceptually_related_to
+- → `O.atmosphere-in-horror` *(held)* · conceptually_related_to
 
 > source: Smart inbox for idea capture (2026-04-26) · extraction: auto (schema v3.1)
