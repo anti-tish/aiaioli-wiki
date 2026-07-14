@@ -1,6 +1,6 @@
 ---
 id: C.relational-ontology
-title: "Everything Is Relational"
+title: "Relational Ontology"
 type: Concept
 domain: epistemology
 epistemic_status: personal_truth
@@ -15,7 +15,7 @@ tags:
   - type/concept
 ---
 
-# Everything Is Relational
+# Relational Ontology
 
 `Concept` · `epistemology` · *personal_truth* · visibility: **publishable**
 

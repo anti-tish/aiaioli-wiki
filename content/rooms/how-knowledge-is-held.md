@@ -6,11 +6,11 @@ The method room. If the first room argues that the container distorts the conten
 the counter-proposal: hold knowledge as *relations*, and let the things be whatever the relations
 say they are.
 
-The spine is [[C.relational-ontology]] — meaning lives in the edges, not the entries. She
-derived the semantic web from scratch in a note before she knew its name
-([[O.intuited-triple-stores]]: noun verb noun, "holy shit holy shit"), which is this graph's
-whole epistemology in miniature — the reason arrives before the vocabulary. The atomic unit is
-the [[A.context-anchor]]: a pointer, not a payload — location plus why-it-mattered, because on
+The spine is [[C.relational-ontology]] — meaning lives in the edges, not the entries. Its
+smallest working unit is the triple: noun, verb, noun, two things and the relation between them
+([[O.intuited-triple-stores]]) — a model of knowledge whose base unit is a sentence a child can
+parse, which turned up in a note here before its formal name was in reach. The atomic unit of
+*capture* is the [[A.context-anchor]]: a pointer, not a payload — location plus why-it-mattered, because on
 re-reading you never wanted the old thought verbatim, you wanted to know where you flinched. Pin
 the atom tightly enough and a wide system can rest on it ([[P.tight-atom-wide-system]]).
 
